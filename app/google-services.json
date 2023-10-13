@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "106995689520",
+    "project_id": "tokio-976bc",
+    "storage_bucket": "tokio-976bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106995689520:android:d522c008b0aa18857c65f5",
+        "android_client_info": {
+          "package_name": "com.example.tesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106995689520-h91j0r2f2brjpntr85dalrcrqrcqji4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tesis",
+            "certificate_hash": "c31e80ecd51302290dc63b4f55cdc422016c92eb"
+          }
+        },
+        {
+          "client_id": "106995689520-e57l2018nnhn547ua2inardhk7nobrt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQFV71i5-Bu0mMlVKO4y0bOi56wod18qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106995689520-e57l2018nnhn547ua2inardhk7nobrt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tesis</string>
+    <string name="strRegistro"><u>Registrarse</u></string>
+    <string name="strOlvideContrasena"><u>Olvide mi contraseña</u></string>
+</resources>
